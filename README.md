@@ -1,3 +1,12 @@
+# 🏬 SuperStore Sales & Financial Performance Dashboard
+
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power Pivot](https://img.shields.io/badge/Power_Pivot-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![DAX](https://img.shields.io/badge/DAX-Explicit_Measures-blue?style=for-the-badge)]()
+[![Domain](https://img.shields.io/badge/Domain-Financial_%26_Returns_Audit-green?style=for-the-badge)]()
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-06b6d4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://islamyasser424-design.github.io/portfolio-/)
+
+
 ### 📊 Interactive Dashboard View
 ![Dashboard View](Screenshot%202026-08-12%20095733.png)
 
@@ -39,4 +48,19 @@
 * **Regional & City Performance:** Detailed breakdown revealing **West** ($725.46K) and **East** ($678.78K) as main revenue drivers, while **New York City** leads at the city level ($256.37K).
 * **Product Hierarchy Analysis:** Breakdown of top vs. bottom performing categories and sub-categories (e.g., **Technology** leads with $836.15K sales; **Fasteners** generated the lowest at $3,024.28).
 * **Operational Issues (Returns Analysis):** Highlighted that out of **800 total returned orders**, the **Office Supplies** category accounted for the highest share (**473 returns**), indicating potential quality control or packaging issues in that department.
-  
+---
+
+## 👤 Author & Connect
+
+**Islam Yasser**  
+*Data Analyst & Business Intelligence Specialist*
+
+* 🌐 **Portfolio Website:** [islamyasser424-design.github.io/portfolio-](https://islamyasser424-design.github.io/portfolio-/)
+* 💼 **LinkedIn Profile:** [linkedin.com/in/islam-yasser-55048b378](https://www.linkedin.com/in/islam-yasser-55048b378/)
+* 🐙 **GitHub Profile:** [@islamyasser424-design](https://github.com/islamyasser424-design)
+* ✉️ **Email:** [islamyasser424@gmail.com](mailto:islamyasser424@gmail.com)
+
+---
+<p align="center">
+  <sub>Part of the Business Intelligence & Enterprise Analytics Portfolio. Engineered with precision and industry-standard data modeling.</sub>
+</p>
